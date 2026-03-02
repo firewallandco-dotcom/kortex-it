@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sanity": "sanity",
+    "sanity:dev": "sanity dev",
+    "sanity:deploy": "sanity deploy"
   },
   "dependencies": {
     "@splinetool/react-spline": "^4.1.0",
